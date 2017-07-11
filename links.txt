@@ -1,0 +1,7 @@
+https://lwn.net/Kernel/LDD3/
+
+http://www.yoctoproject.org/docs/2.3/ref-manual/ref-manual.html#ref-images
+
+http://www.yoctoproject.org/docs/2.3/bitbake-user-manual/bitbake-user-manual.html
+
+https://wiki.yoctoproject.org/wiki/FAQ#What_is_the_difference_between_OpenEmbedded_and_the_Yocto_Project.3F
